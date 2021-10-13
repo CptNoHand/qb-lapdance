@@ -24,7 +24,7 @@ Config.BlipCoord = {
 }
 
 -- Locale
-Config.Language						= 'fr'		-- Currently Available: fr, en
+Config.Language						= 'en'		-- Currently Available: fr, en
 -- Locales can be easily created or modified in `qb-lapdance/locales`
 
 -- Misc
